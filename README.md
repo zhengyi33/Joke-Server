@@ -1,6 +1,6 @@
 # Joke-Server
 
-This is the server, client and administration applications for the joke server.
+In this repository are the server, client and administration applications for the joke server.
 
 The joke server can toggle between joke mode and proverb mode by the administrator connecting to the server through the administration client. 
 
