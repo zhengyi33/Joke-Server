@@ -40,9 +40,7 @@ You can replace localhost with other ip addresses
  JokeClient.java
  JokeClientAdmin.java
 
-5. Notes:
 
-Acceptable commands are displayed are consoles. It should be very clear. If you have question, please feel free to contact me at zhengyi5411@hotmail.com. I will respond as soon as possible!
 
 ----------------------------------------------------------*/
 
